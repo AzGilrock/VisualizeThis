@@ -1,0 +1,18 @@
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.Form1.resources
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.Properties.Resources.resources
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.csproj.GenerateResource.Cache
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\bin\Debug\VisualizeThis.exe
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\bin\Debug\VisualizeThis.pdb
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.exe
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.pdb
+C:\Users\Gil\Documents\Visual Studio 2008\Projects\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.AddMatrixDlg.resources
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\bin\Debug\VisualizeThis.exe
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\bin\Debug\VisualizeThis.pdb
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.Form1.resources
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.AddMatrixDlg.resources
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.Properties.Resources.resources
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.csproj.GenerateResource.Cache
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.exe
+C:\Users\Gil\Documents\GitHub\VisualizeThis\VisualizeThis\obj\Debug\VisualizeThis.pdb
